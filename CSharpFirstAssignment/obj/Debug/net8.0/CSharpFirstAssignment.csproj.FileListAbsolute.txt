@@ -1,0 +1,14 @@
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFirstAssignment\obj\Debug\net8.0\CSharpFirstAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFirstAssignment\obj\Debug\net8.0\CSharpFirstAssignment.AssemblyInfoInputs.cache
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFirstAssignment\obj\Debug\net8.0\CSharpFirstAssignment.AssemblyInfo.cs
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFirstAssignment\obj\Debug\net8.0\CSharpFirstAssignment.csproj.CoreCompileInputs.cache
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFirstAssignment\bin\Debug\net8.0\CSharpFirstAssignment.exe
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFirstAssignment\bin\Debug\net8.0\CSharpFirstAssignment.deps.json
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFirstAssignment\bin\Debug\net8.0\CSharpFirstAssignment.runtimeconfig.json
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFirstAssignment\bin\Debug\net8.0\CSharpFirstAssignment.dll
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFirstAssignment\bin\Debug\net8.0\CSharpFirstAssignment.pdb
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFirstAssignment\obj\Debug\net8.0\CSharpFirstAssignment.dll
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFirstAssignment\obj\Debug\net8.0\refint\CSharpFirstAssignment.dll
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFirstAssignment\obj\Debug\net8.0\CSharpFirstAssignment.pdb
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFirstAssignment\obj\Debug\net8.0\CSharpFirstAssignment.genruntimeconfig.cache
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFirstAssignment\obj\Debug\net8.0\ref\CSharpFirstAssignment.dll
