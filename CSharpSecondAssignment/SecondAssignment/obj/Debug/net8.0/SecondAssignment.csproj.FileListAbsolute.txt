@@ -1,0 +1,15 @@
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpSecondAssignment\SecondAssignment\obj\Debug\net8.0\SecondAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpSecondAssignment\SecondAssignment\obj\Debug\net8.0\SecondAssignment.AssemblyInfoInputs.cache
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpSecondAssignment\SecondAssignment\obj\Debug\net8.0\SecondAssignment.AssemblyInfo.cs
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpSecondAssignment\SecondAssignment\obj\Debug\net8.0\SecondAssignment.csproj.CoreCompileInputs.cache
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpSecondAssignment\SecondAssignment\obj\Debug\net8.0\SecondAssignment.sourcelink.json
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpSecondAssignment\SecondAssignment\bin\Debug\net8.0\SecondAssignment.exe
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpSecondAssignment\SecondAssignment\bin\Debug\net8.0\SecondAssignment.deps.json
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpSecondAssignment\SecondAssignment\bin\Debug\net8.0\SecondAssignment.runtimeconfig.json
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpSecondAssignment\SecondAssignment\bin\Debug\net8.0\SecondAssignment.dll
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpSecondAssignment\SecondAssignment\bin\Debug\net8.0\SecondAssignment.pdb
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpSecondAssignment\SecondAssignment\obj\Debug\net8.0\SecondAssignment.dll
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpSecondAssignment\SecondAssignment\obj\Debug\net8.0\refint\SecondAssignment.dll
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpSecondAssignment\SecondAssignment\obj\Debug\net8.0\SecondAssignment.pdb
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpSecondAssignment\SecondAssignment\obj\Debug\net8.0\SecondAssignment.genruntimeconfig.cache
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpSecondAssignment\SecondAssignment\obj\Debug\net8.0\ref\SecondAssignment.dll
