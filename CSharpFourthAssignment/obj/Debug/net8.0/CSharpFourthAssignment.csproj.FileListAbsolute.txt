@@ -1,0 +1,15 @@
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFourthAssignment\bin\Debug\net8.0\CSharpFourthAssignment.exe
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFourthAssignment\bin\Debug\net8.0\CSharpFourthAssignment.deps.json
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFourthAssignment\bin\Debug\net8.0\CSharpFourthAssignment.runtimeconfig.json
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFourthAssignment\bin\Debug\net8.0\CSharpFourthAssignment.dll
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFourthAssignment\bin\Debug\net8.0\CSharpFourthAssignment.pdb
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFourthAssignment\obj\Debug\net8.0\CSharpFourthAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFourthAssignment\obj\Debug\net8.0\CSharpFourthAssignment.AssemblyInfoInputs.cache
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFourthAssignment\obj\Debug\net8.0\CSharpFourthAssignment.AssemblyInfo.cs
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFourthAssignment\obj\Debug\net8.0\CSharpFourthAssignment.csproj.CoreCompileInputs.cache
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFourthAssignment\obj\Debug\net8.0\CSharpFourthAssignment.sourcelink.json
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFourthAssignment\obj\Debug\net8.0\CSharpFourthAssignment.dll
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFourthAssignment\obj\Debug\net8.0\refint\CSharpFourthAssignment.dll
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFourthAssignment\obj\Debug\net8.0\CSharpFourthAssignment.pdb
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFourthAssignment\obj\Debug\net8.0\CSharpFourthAssignment.genruntimeconfig.cache
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFourthAssignment\obj\Debug\net8.0\ref\CSharpFourthAssignment.dll
