@@ -1,0 +1,15 @@
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFifthAssignment\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFifthAssignment\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFifthAssignment\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFifthAssignment\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFifthAssignment\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFifthAssignment\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFifthAssignment\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFifthAssignment\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFifthAssignment\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFifthAssignment\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFifthAssignment\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFifthAssignment\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFifthAssignment\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFifthAssignment\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpFifthAssignment\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll

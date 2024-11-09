@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Career 180 - Backend .Net\\Career_180.Backend.Net_Assignments\\CSharpFourthAssignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2169345-783F-42DB-9BEE-2388614A3F32}|CSharpFourthAssignment.csproj|d:\\career 180 - backend .net\\career_180.backend.net_assignments\\csharpfourthassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2169345-783F-42DB-9BEE-2388614A3F32}|CSharpFourthAssignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D2169345-783F-42DB-9BEE-2388614A3F32}|CSharpFourthAssignment.csproj|d:\\career 180 - backend .net\\career_180.backend.net_assignments\\csharpfourthassignment\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2169345-783F-42DB-9BEE-2388614A3F32}|CSharpFourthAssignment.csproj|solutionrelative:triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2169345-783F-42DB-9BEE-2388614A3F32}|CSharpFourthAssignment.csproj|d:\\career 180 - backend .net\\career_180.backend.net_assignments\\csharpfourthassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2169345-783F-42DB-9BEE-2388614A3F32}|CSharpFourthAssignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2169345-783F-42DB-9BEE-2388614A3F32}|CSharpFourthAssignment.csproj|d:\\career 180 - backend .net\\career_180.backend.net_assignments\\csharpfourthassignment\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,13 +46,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Triangle.cs",
               "DocumentMoniker": "D:\\Career 180 - Backend .Net\\Career_180.Backend.Net_Assignments\\CSharpFourthAssignment\\Triangle.cs",
               "RelativeDocumentMoniker": "Triangle.cs",
               "ToolTip": "D:\\Career 180 - Backend .Net\\Career_180.Backend.Net_Assignments\\CSharpFourthAssignment\\Triangle.cs*",
               "RelativeToolTip": "Triangle.cs*",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwEQAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwEQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-02T14:36:42.701Z",
               "EditorCaption": ""
@@ -63,8 +63,8 @@
               "Title": "Rectangle.cs",
               "DocumentMoniker": "D:\\Career 180 - Backend .Net\\Career_180.Backend.Net_Assignments\\CSharpFourthAssignment\\Rectangle.cs",
               "RelativeDocumentMoniker": "Rectangle.cs",
-              "ToolTip": "D:\\Career 180 - Backend .Net\\Career_180.Backend.Net_Assignments\\CSharpFourthAssignment\\Rectangle.cs*",
-              "RelativeToolTip": "Rectangle.cs*",
+              "ToolTip": "D:\\Career 180 - Backend .Net\\Career_180.Backend.Net_Assignments\\CSharpFourthAssignment\\Rectangle.cs",
+              "RelativeToolTip": "Rectangle.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwDYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-02T14:36:19.592Z",
@@ -111,12 +111,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Career 180 - Backend .Net\\Career_180.Backend.Net_Assignments\\CSharpFourthAssignment\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Career 180 - Backend .Net\\Career_180.Backend.Net_Assignments\\CSharpFourthAssignment\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
+              "ToolTip": "D:\\Career 180 - Backend .Net\\Career_180.Backend.Net_Assignments\\CSharpFourthAssignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-02T13:19:31.896Z",
