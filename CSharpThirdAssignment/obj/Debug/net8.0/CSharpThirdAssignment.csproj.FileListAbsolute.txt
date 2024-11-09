@@ -1,0 +1,15 @@
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpThirdAssignment\bin\Debug\net8.0\CSharpThirdAssignment.exe
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpThirdAssignment\bin\Debug\net8.0\CSharpThirdAssignment.deps.json
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpThirdAssignment\bin\Debug\net8.0\CSharpThirdAssignment.runtimeconfig.json
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpThirdAssignment\bin\Debug\net8.0\CSharpThirdAssignment.dll
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpThirdAssignment\bin\Debug\net8.0\CSharpThirdAssignment.pdb
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpThirdAssignment\obj\Debug\net8.0\CSharpThirdAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpThirdAssignment\obj\Debug\net8.0\CSharpThirdAssignment.AssemblyInfoInputs.cache
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpThirdAssignment\obj\Debug\net8.0\CSharpThirdAssignment.AssemblyInfo.cs
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpThirdAssignment\obj\Debug\net8.0\CSharpThirdAssignment.csproj.CoreCompileInputs.cache
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpThirdAssignment\obj\Debug\net8.0\CSharpThirdAssignment.sourcelink.json
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpThirdAssignment\obj\Debug\net8.0\CSharpThirdAssignment.dll
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpThirdAssignment\obj\Debug\net8.0\refint\CSharpThirdAssignment.dll
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpThirdAssignment\obj\Debug\net8.0\CSharpThirdAssignment.pdb
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpThirdAssignment\obj\Debug\net8.0\CSharpThirdAssignment.genruntimeconfig.cache
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\CSharpThirdAssignment\obj\Debug\net8.0\ref\CSharpThirdAssignment.dll
