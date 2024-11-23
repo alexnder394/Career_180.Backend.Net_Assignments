@@ -1,0 +1,15 @@
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\LINQ-D01-Lab\bin\Debug\net8.0\LINQ-D01-Lab.exe
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\LINQ-D01-Lab\bin\Debug\net8.0\LINQ-D01-Lab.deps.json
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\LINQ-D01-Lab\bin\Debug\net8.0\LINQ-D01-Lab.runtimeconfig.json
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\LINQ-D01-Lab\bin\Debug\net8.0\LINQ-D01-Lab.dll
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\LINQ-D01-Lab\bin\Debug\net8.0\LINQ-D01-Lab.pdb
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\LINQ-D01-Lab\obj\Debug\net8.0\LINQ-D01-Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\LINQ-D01-Lab\obj\Debug\net8.0\LINQ-D01-Lab.AssemblyInfoInputs.cache
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\LINQ-D01-Lab\obj\Debug\net8.0\LINQ-D01-Lab.AssemblyInfo.cs
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\LINQ-D01-Lab\obj\Debug\net8.0\LINQ-D01-Lab.csproj.CoreCompileInputs.cache
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\LINQ-D01-Lab\obj\Debug\net8.0\LINQ-D01-Lab.sourcelink.json
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\LINQ-D01-Lab\obj\Debug\net8.0\LINQ-D01-Lab.dll
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\LINQ-D01-Lab\obj\Debug\net8.0\refint\LINQ-D01-Lab.dll
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\LINQ-D01-Lab\obj\Debug\net8.0\LINQ-D01-Lab.pdb
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\LINQ-D01-Lab\obj\Debug\net8.0\LINQ-D01-Lab.genruntimeconfig.cache
+D:\Career 180 - Backend .Net\Career_180.Backend.Net_Assignments\LINQ-D01-Lab\obj\Debug\net8.0\ref\LINQ-D01-Lab.dll
